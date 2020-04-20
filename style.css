@@ -1,0 +1,39 @@
+
+html, body {
+    background-image:url('sun.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+#userInput{
+    justify-content: center;
+    display: flexbox;
+    font-weight: bold;
+    padding: 10px;
+    width: 200px;
+    margin-top: 25px;
+   
+}
+
+
+
+#userInfo {
+    text-align: center;
+   width: 300px;
+   padding: 25px;
+   margin: 0 auto;
+   color: black;
+   border-color: 10px white;
+   text-emphasis: bolder;
+   text: 15 px;
+
+}
+
+.returnedInfo{
+    color:black;
+    font-weight: bold;
+    text-align: center;
+    margin: 25px;
+
+}
+
